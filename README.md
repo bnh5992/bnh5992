@@ -16,4 +16,4 @@
 
 ## 🐤 공부중
 
-![bnh's GitHub stats](https://github-readme-stats.vercel.app/api?username=skagus159632&show_icons=true&theme=radical)
+![bnh's GitHub stats](https://github-readme-stats.vercel.app/api?username=bnh5992&show_icons=true&theme=radical)
