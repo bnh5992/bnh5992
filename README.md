@@ -9,7 +9,7 @@
 </a>
 -->
 - Phone : 010-4924-5992
-- Email : skagus159632@gmail.com
+- Email : skagus159632@naver.com
 - Github : https://github.com/bnh5992
 - 블로그 : <https://bnh4924.tistory.com> ✨
 
